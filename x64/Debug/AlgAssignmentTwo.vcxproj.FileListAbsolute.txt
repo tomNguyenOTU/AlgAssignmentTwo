@@ -1,0 +1,2 @@
+C:\Users\xenon\source\repos\AlgAssignmentTwo\x64\Debug\AlgAssignmentTwo.exe.lastcodeanalysissucceeded
+C:\Users\xenon\source\repos\AlgAssignmentTwo\AlgAssignmentTwo\x64\Debug\NativeCodeAnalysis.read.1.tlog
